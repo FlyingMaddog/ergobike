@@ -1,0 +1,3 @@
+[submodule "lib/ant-plus"]
+	path = lib/ant-plus
+	url = https://github.com/FlyingMaddog/ant-plus.git
