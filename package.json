@@ -1,0 +1,19 @@
+{
+  "name": "ergobike-ant-plus",
+  "version": "0.0.1",
+  "description": "read data from DAUM ergobike Coach and transmit via ANT+",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernhard Aschacher",
+  "license": "MIT",
+  "dependencies": {
+    "ant-plus": "file:lib/ant-plus",
+    "serialport": "^12.0.0",
+    "sqlite3": "^5.1.7"
+  }
+}
